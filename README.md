@@ -43,3 +43,4 @@ If you're trying to get in touch with OPLabs, check out the following forms.
 ## Thank you ❤️ 
 
 Thank you for taking the time to participate in this community. You're what makes the [Optimism Collective](https://optimism.mirror.xyz/gQWKlrDqHzdKPsB1iUnI-cVN3v0NvsWnazK7ajlt1fI) improve and grow to serve [Ether's Phoenix](https://optimism.mirror.xyz/x4LGFwa6RJ_opOaCOwr_VGk04Lp3of41H8ynWaFB27E)!
+This project is a demonstration of blockchain technology and smart contract integration.
